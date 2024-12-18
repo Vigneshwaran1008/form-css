@@ -1,0 +1,11 @@
+body{
+    background: url('img.avif') no-repeat center/cover;
+}
+/* Login Form*/
+.form{
+    display:flex;
+    flex-direction: column;
+    height:500px;
+    width: 400px;
+    border: 1px solid black;
+}
